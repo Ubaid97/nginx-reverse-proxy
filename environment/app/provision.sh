@@ -57,7 +57,7 @@ sudo ln -s /etc/nginx/sites-available/proxy_config.conf /etc/nginx/sites-enabled
 # finally, restart the nginx service so the new config takes hold
 sudo service nginx restart
 
-# Missing some automation here to start the servers
+# run the app
 cd /home/ubuntu/app
 
 pm2 start app.js --update-env
