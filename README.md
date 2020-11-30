@@ -24,3 +24,4 @@ Now the app is running on:
 - You should see the sparta logo at http://development.local
 
 Hello world
+jenkins - testing npm commands
