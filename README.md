@@ -23,3 +23,4 @@ Now the app is running on:
 - ip: 192.168.10.100
 - You should see the sparta logo at http://development.local
 
+Hello world
