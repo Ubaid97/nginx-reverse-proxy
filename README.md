@@ -26,3 +26,4 @@ Now the app is running on:
 Hello world
 jenkins - testing npm commands
 jenkins - testing npm commands
+jenkins - testing npm commands 2
