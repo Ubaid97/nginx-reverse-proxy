@@ -28,3 +28,4 @@ jenkins - testing npm commands
 jenkins - testing npm commands
 jenkins - testing npm commands 2
 jenkins ci v2 test
+jenkins ci v2 test
