@@ -27,3 +27,4 @@ Hello world
 jenkins - testing npm commands
 jenkins - testing npm commands
 jenkins - testing npm commands 2
+jenkins ci v2 test
